@@ -1,0 +1,12 @@
+{
+    "name": "awan/src",
+    "description": "Cloud Budget and Resources API",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rori Kurniadi",
+            "email": "rori.development@gmail.com"
+        }
+    ],
+    "require": {}
+}
