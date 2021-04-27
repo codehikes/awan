@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'budget'                => 80000,
-    
+    'budget'                => 1000,
+
     'currency'              => '$',
 
     'providers' => [
